@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="310px" src="https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.webp"/>
+<img align="right" alt="coding" width="350px" src="https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.webp"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zohaib6262&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -102,6 +102,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaib6262&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohaib6262&" alt="GitHub Streak Stats" />
-</p>
+
