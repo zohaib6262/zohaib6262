@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ashraf</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer (React/React-Native) from Pakistan</h3>
 
 ---
 
