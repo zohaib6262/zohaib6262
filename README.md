@@ -12,7 +12,6 @@ Hello! I'm Zohaib Ashraf, a dedicated Full-Stack Developer specializing in build
 - 🤖 Building automation systems with **Puppeteer, n8n, and workflow orchestration**
 - 🚀 Expertise in **web scraping, API integrations, and data synchronization pipelines**
 - 🌱 Exploring **browser automation, headless testing, and workflow automation**
-- 👨‍💻 All of my projects available at [Vercel.com/zohaib6262s-projects](https://vercel.com/zohaib6262s-projects)
 - 💬 Ask me about **React,React-Native, Node.js, Express, MongoDB, Puppeteer, Supabase, Automation**
 - 📫 Reach me at **zohaibbinashrraf@gmail.com**
 
