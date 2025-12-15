@@ -4,15 +4,16 @@
 ---
 
 ### 👋 About Me:
-
 <p>
-Hello! I'm Zohaib Ashraf, a dedicated Frontend Developer with a passion for crafting scalable and user-friendly web applications. My expertise lies in building dynamic UIs using modern web technologies.
+Hello! I'm Zohaib Ashraf, a dedicated Full-Stack Developer specializing in building scalable web applications and intelligent automation solutions. I love transforming complex business problems into elegant technical solutions.
 </p>
 
-- 🔭 I’m currently working on my **FYP: FitRoute App**
-- 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [Vercel.com/zohaib6262s-projects](https://vercel.com/zohaib6262s-projects)
-- 💬 Ask me about **React, Express, Node.js, Mongoose**
+- 🔭 Currently working remotely as a **Full-Stack Developer**
+- 🤖 Building automation systems with **Puppeteer, n8n, and workflow orchestration**
+- 🚀 Expertise in **web scraping, API integrations, and data synchronization pipelines**
+- 🌱 Exploring **browser automation, headless testing, and workflow automation**
+- 👨‍💻 All of my projects available at [Vercel.com/zohaib6262s-projects](https://vercel.com/zohaib6262s-projects)
+- 💬 Ask me about **React,React-Native, Node.js, Express, MongoDB, Puppeteer, Supabase, Automation**
 - 📫 Reach me at **zohaibbinashrraf@gmail.com**
 
 <p>
